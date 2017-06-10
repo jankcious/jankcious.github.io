@@ -1,0 +1,33 @@
+#cv {
+	background-color:#e4ff34;
+}
+#projects {
+     background-color:#f1f1f1;
+}
+
+#home {
+     background-color:#f34841;
+}
+#contact {
+     background-color:#4e4e4e;
+	 color:#f1f1f1
+}
+#contact a {
+	color:#f1f1f1
+}
+h1 {
+	font-family:calibri;
+	font-size:20;
+	color:#000
+}
+body {
+	font-family:calibri;
+	font-size:16;
+	color:#000
+}
+a {
+	font-family:calibri;
+	font-size:16;
+	color:#000;
+	text-decoration: none;
+}
