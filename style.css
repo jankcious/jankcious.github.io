@@ -20,8 +20,11 @@
 	margin-right: 250px;
 }
 #paintings img{
-	width: 300px;
-	height: 300px;
+	width: 455px;
+	height: 455px;
+}
+.title {
+	width: 455px;
 }
 h1 {
 	font-family:calibri;
