@@ -16,7 +16,7 @@
 	color:#f1f1f1
 }
 #nav {
-	text-align: right;
+	text-align: left;
 	margin-right: 250px;
 }
 #paintings img{
@@ -32,7 +32,7 @@ h1 {
 	color:#000
 }
 body {
-	font-family:calibri;
+	font-family:ariel;
 	font-size:16;
 	color:#000
 }
