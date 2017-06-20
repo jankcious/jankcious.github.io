@@ -1,10 +1,12 @@
 #cv {
 	background-color:#e4ff34;
-	font-family:arial;	
+	font-family:arial;
+	margin-left:50px;
 }
 #projects {
     background-color:#f1f1f1;
 	font-family:arial;
+	margin-left:50px;
 }
 
 #home {
@@ -15,12 +17,17 @@
     background-color:#4e4e4e;
 	color:#f1f1f1;
 	font-family:arial;
+	margin-left:50px;
 }
 #contact p {
 	font-family:arial;
 }
 #contact a {
 	color:#f1f1f1
+}
+#contact a:hover {
+	text-decoration:underline;
+	color:#919191;
 }
 #nav {
 	text-align: left;
@@ -40,6 +47,7 @@
 }
 .title {
 	width: 455px;
+	height: 85px;
 }
 h1 {
 	font-family:arial;
